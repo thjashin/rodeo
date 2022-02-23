@@ -36,6 +36,7 @@ python experiment_launcher_singlelayer.py --dataset={dataset} --genmo_lr={lr} --
   - RODEO (ours): 
     - `K=2`: `discrete_stein_avg`
     - `K>2`: `discrete_stein_output_avg`
+- `K`: number of samples used, equivalent to number of evaluations of `f` in gradient estimators except RELAX.
 - `seed`: 1-5. 
 
 Running hierarchical VAE experiments:
