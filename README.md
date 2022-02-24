@@ -3,7 +3,7 @@
 Code for reproducing the results in "Gradient Estimation with Discrete Stein Operators"
 https://arxiv.org/abs/2202.09497.
 
-### Variance of Gradient Estimates for training VAEs
+### Variance of Gradient Estimates for Training VAEs
 #### Bernoulli likelihoods
 <img src="results/var_dyn.png" width="900">
 
