@@ -1,10 +1,10 @@
 # coding=utf-8
 #
-# Modifications Copyright 2022 by Jiaxin Shi, Yuhao Zhou, Jessica Hwang, Michalis Titsias, Lester Mackey
+# Copyright 2022 by Jiaxin Shi, Yuhao Zhou, Jessica Hwang, Michalis Titsias, Lester Mackey
 # https://arxiv.org/abs/2202.09497
 # 
-# Modifications Copyright 2021 by Michalis Titsias, Jiaxin Shi
-# from https://github.com/alekdimi/arms
+# Copyright 2021 by Michalis Titsias, Jiaxin Shi
+# modified from https://github.com/alekdimi/arms
 # and https://github.com/google-research/google-research/tree/master/disarm/binary
 #
 # Copyright 2021 The Google Research Authors.

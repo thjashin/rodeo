@@ -1,6 +1,6 @@
 # coding=utf-8
 #
-# Modifications Copyright 2022 by Jiaxin Shi, Yuhao Zhou, Jessica Hwang, Michalis Titsias, Lester Mackey
+# Copyright 2022 by Jiaxin Shi, Yuhao Zhou, Jessica Hwang, Michalis Titsias, Lester Mackey
 # https://arxiv.org/abs/2202.09497
 #
 # Copyright 2022 The Google Research Authors.
