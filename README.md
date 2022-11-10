@@ -1,4 +1,4 @@
-# REINFORCE with Discrete Stein Operators
+# Gradient Estimation with Discrete Stein Operators
 
 Code for reproducing the results in "Gradient Estimation with Discrete Stein Operators"
 https://arxiv.org/abs/2202.09497.
