@@ -1,7 +1,8 @@
 # Gradient Estimation with Discrete Stein Operators
 
-Code for reproducing the results in "Gradient Estimation with Discrete Stein Operators" (NeurIPS 2022 Outstanding Paper Award)
-https://arxiv.org/abs/2202.09497.
+Code for reproducing the results in "Gradient Estimation with Discrete Stein Operators" \
+https://arxiv.org/abs/2202.09497 \
+**NeurIPS 2022 Outstanding Paper Award**
 
 ### Variance of Gradient Estimates for Training VAEs
 #### Bernoulli likelihoods
