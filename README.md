@@ -56,11 +56,16 @@ python experiment_launcher_multilayer.py --dataset={dataset} --genmo_lr={lr} --i
 
 To cite this work, please use
 ```
-@InProceedings{shi2022gradient,
-  title = {Gradient Estimation with Discrete Stein Operators},
-  author = {Shi, Jiaxin and Zhou, Yuhao and Hwang, Jessica and Titsias, Michalis K. and Mackey, Lester},
-  journal = {arXiv preprint arXiv:2202.09497},
-  year = {2022},
+@inproceedings{NEURIPS2022_a5a5b0ff,
+ author = {Shi, Jiaxin and Zhou, Yuhao and Hwang, Jessica and Titsias, Michalis and Mackey, Lester},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {S. Koyejo and S. Mohamed and A. Agarwal and D. Belgrave and K. Cho and A. Oh},
+ pages = {25829--25841},
+ publisher = {Curran Associates, Inc.},
+ title = {Gradient Estimation with Discrete Stein Operators},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2022/file/a5a5b0ff87c59172a13342d428b1e033-Paper-Conference.pdf},
+ volume = {35},
+ year = {2022}
 }
 ```
 
